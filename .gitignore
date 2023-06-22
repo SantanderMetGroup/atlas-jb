@@ -1,0 +1,10 @@
+.DS_Store
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+ATLAS.Rproj
+.ipynb_checkpoints
+ignore
+Atlas.Rproj
+_build
